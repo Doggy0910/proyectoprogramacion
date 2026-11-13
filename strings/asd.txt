@@ -1,0 +1,5 @@
+
+("admin", "admin@gmail.com", "admin123"),
+("doggy", "doggy@gmail.com", "fortnite123"),
+("user01", "user01@gmail.com", "password123"),
+("test", "test@gmail.com", "test123")
